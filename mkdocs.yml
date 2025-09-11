@@ -1,0 +1,120 @@
+############################################################
+# Clara's Guides - MkDocs Configuration
+# Privacy-focused: No tracking, no personal data, no external leaks.
+############################################################
+
+# Basic Site Information
+site_name: Clara's Guides
+site_url: https://claraiscute.github.io/Guides
+site_description: "Piracy enthusiast guides and tools - no AI, just pure human-written content"
+
+# Strict privacy: No last updated dates that might leak info
+copyright: |
+  Content provided for educational purposes. 🏴‍☠️
+
+# Theme Configuration - Cyberpunk inspired but privacy conscious
+theme:
+  name: material
+
+  # Color Scheme - Auto-switch based on OS preference
+  palette:
+    # Light mode scheme
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode scheme
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  # Fonts - Using only built-in fonts for privacy
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+  # Features - All requested features enabled
+  features:
+    - navigation.tabs           # Tab-based navigation
+    - navigation.sections       # Section support in sidebar
+    - navigation.expand         # Expandable navigation items
+    - toc.integrate            # Table of contents integrated
+    - header.autohide          # Header hides on scroll
+    - search.highlight         # Search result highlighting
+    - search.suggest           # Search suggestions
+    - content.code.copy        # Copy button on code blocks
+
+  # Privacy: No external CDNs, no fonts, no analytics
+  extra:
+    generator: false           # Remove MkDocs generator tag
+
+# Navigation Structure - Your existing guide structure
+nav:
+  - Home: index.md
+  - Guides:
+    - JDownloader2 Guide: jdownloader2-guide.md
+    - ReverseCAI Guide: reverse-cai-guide.md
+    - WinRAR Guide: x3-rawr.md
+    - Sandboxie Guide: sandboxie-guide.md
+    - VirusTotal Guide: vtguide.md
+    - How to Bypass Loot-Link: lootlink.md
+    - Pygmalion Links: pygmalionlinks.md
+    - Basics to the art of Remuxing:
+      - Overview: remuxing.md
+      - Method 1: remuxing_1.md
+      - Method 2: remuxing_2.md
+      - Method 3: remuxing_3.md
+      - How to Disable Zlib Compression on PGS Subtitles: pgs-subs_1.md
+      - How to tonemap PGS subtitles for HDR (Advanced): pgs-subs_2.md
+    - Gshade is garbage: gshade_notice.md
+    - Qoob is garbage: qoobrepacker.md
+    - Fake FitGirl Websites: FakeFitgirlwebsites.md
+    - ICM: icm.md
+    - qBittorent Endpoints for Piracy: qBitEndpoints.md
+    - Raw Manga Sites: rawmangaz.md
+    - Scurvy Malware: scurvy_malware.md
+    - Mangapark Mirrors: mangapark.md
+    - GameFabrigue is garbage: gamefabrique_adware.md
+    - Private Trackers General: private-trackers.md
+  - About & Policy: about.md
+
+# Plugins - Minimal set for privacy
+plugins:
+  - search  # Built-in search only
+
+# Markdown Extensions - Essential features only
+markdown_extensions:
+  - admonition          # For note/warning boxes
+  - attr_list           # For adding attributes
+  - def_list            # Definition lists
+  - footnotes           # Footnotes support
+  - toc:                # Table of contents
+      permalink: true   # Show link icons next to headers
+      toc_depth: 3      # Show up to h3 level in TOC
+  - pymdownx.highlight: # Code highlighting
+      anchor_linenums: true
+      pygments_lang_class: true
+  - pymdownx.superfences # Fenced code blocks
+  - pymdownx.tabbed:     # Tabbed content
+      alternate_style: true
+  - pymdownx.tasklist:   # Task lists
+      custom_checkbox: true
+
+# Extra CSS for minimal custom styling (optional)
+extra_css:
+  - stylesheets/extra.css
+
+# Build options
+strict: true            # Strict mode for better error checking
+use_directory_urls: true # Clean URLs without .html extension
+
+# Privacy hardening: No external resources
+extra:
+  analytics: null       # Explicitly disable analytics
