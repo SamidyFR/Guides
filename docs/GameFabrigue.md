@@ -13,8 +13,8 @@ I ran it through a sandbox a couple times, you can see what happened here:
 In each installer, AVG secure browser and McAfee web advisor were installed onto the machine. Keep in mind that any.run flags minor things as "malicious activity", though they do bundle adware into their installers and link to torrents from untrusted sources.
 
 ### *Credits*
-**Old owner** - Unknown (Not a username)
-**New / Current owner** - [Clara](https://rentry.co/claraiscute)
+**Old owner** - Unknown (Not a username)  
+**New / Current owner** - [Clara](https://rentry.co/claraiscute)  
 
 [![Fuck AI](https://files.catbox.moe/os5g6k.png)](https://notbyai.fyi)
 
@@ -24,3 +24,4 @@ In each installer, AVG secure browser and McAfee web advisor were installed onto
 *************
 
 [Go back to the top](#gamefabrigue-is-garbage)
+
