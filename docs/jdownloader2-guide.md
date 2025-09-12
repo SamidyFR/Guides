@@ -36,7 +36,7 @@ If you encounter any issues during the installation or debloating process, here 
 ### *Credits*
 -   **The second previous owner** - [oreee.](https://discord.com/users/244064152094507009) (owner of [the Esoterica Avenue Discord server](https://discord.gg/enMG8bXUbn))
 -   **The previous owner** decided to remain anonymous, so they'll remain unnamed.
--   **New / Current owner** - [Clara](index.md)
+-   **New / Current owner** - [Clara](index.md#some-stuff-about-me)
 
 [![Fuck AI](https://files.catbox.moe/os5g6k.png)](https://notbyai.fyi)
 
