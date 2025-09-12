@@ -2,8 +2,11 @@
 
 Caveats:
 1. This provides better performance than a typical virtual machine. But there's some performance loss, so **it's not ideal for resource-intensive games**.
+
 2. This is **only for using programs while isolating them from the internet**. If you're an advanced user, feel free to tweak Sandboxie-Plus to be usable while letting the sandbox connect to the internet by [blocking read-access to sensitive directories](https://sandboxie-plus.com/sandboxie/closedfilepath/). Or use a [virtual machine](https://fmhy.net/system-tools#virtual-machines) instead.
+
 3. Sandboxie-Plus is **only available for Windows**. So, if you're a MacOS or Linux user, it won't work unless you set up a Windows VM beforehand and install it on there.
+
 4. Sandboxie-Plus has **premium features** and unless you [support them](https://www.patreon.com/DavidXanatos), you won't get permanent access to them (only for 5 minutes). You can try to compile the code yourself from [their GitHub repo](https://github.com/sandboxie-plus/Sandboxie). But if you can't, you're out of luck.
 
 ![Sandboxie-Plus Logo](https://avatars.githubusercontent.com/u/63755826?s=200&v=4)
