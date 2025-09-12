@@ -174,8 +174,8 @@ If you don't feel comfortable editing text files, you can use [Microsoft PowerTo
 
  1. Go to the [GitHub](https://github.com/microsoft/PowerToys/releases/latest) or to the [Microsoft Store](ms-windows-store://pdp/?productid=XP89DCGQ3K6VLD) and install PowerToys from there.
 
-> **Info: You can also use winget (if installed) to install PowerToys with the following command in Powershell.**
-> `winget install Microsoft.PowerToys --source winget`
+    > **Info: You can also use winget (if installed) to install PowerToys with the following command in Powershell.**
+    > `winget install Microsoft.PowerToys --source winget`
 
  2. After installing & launching PowerToys, you will be greeted with a screen like this:
 
