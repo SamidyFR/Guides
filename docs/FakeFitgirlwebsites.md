@@ -19,30 +19,55 @@ Here's a list of known fake FitGirl websites. Avoid these!
 > **Note:** Spaces have been placed on the TLDs to prevent accidental clicking.
 
 fitgirl-repack. site
+
 fitgirl-repack. com
+
 fitgirlrepacks. org
+
 fitgirl-repacks. website
+
 fitgirlrepacks. co
+
 fitgirlrepack. games
+
 fitgirl. cc
+
 fitgirlrepacksite. com
+
 fitgirlrepacks. in
+
 fitgirl-repacks. cc
+
 fitgirl-repacks. to
+
 ww9.fitgirl-repacks. xyz
+
 fitgirl-repacks. xyz
+
 fitgirl-repack. net
+
 fitgirlpack. site
+
 fitgirl-repack. org
+
 fitgirlrepacks. pro
+
 fitgirlrepack. games
+
 fitgirltorrent. com
+
 fitgirl-repacks. vip
+
 fitgirlrepackz. com
+
 fitgirl-repacks.theproxy. vip
+
 fitgirl-repacks. us
+
 fitgirl-repacks. unb
+
 fitgirl-repacks. in
+
 
 ---
 
@@ -154,19 +179,19 @@ If you don't feel comfortable editing text files, you can use [Microsoft PowerTo
 
 2. After installing & launching PowerToys, you will be greeted with a screen like this:
 
-![1](https://files.catbox.moe/0044q5.png)
+![one](https://files.catbox.moe/0044q5.png)
 
 3. Click the Hosts File Editor and press "Launch Hosts File Editor", you will then be greeted with a warning. Press "Accept".
 
-![2](https://files.catbox.moe/6armfm.png)
+![two](https://files.catbox.moe/6armfm.png)
 
 4. Press on "New Entry"
 
-![3](https://files.catbox.moe/k9qvpn.png)
+![three](https://files.catbox.moe/k9qvpn.png)
 
 5. Follow the instructions as seen on the image
 
-![4](https://files.catbox.moe/7iz4r6.png)
+![four](https://files.catbox.moe/7iz4r6.png)
 
 6. Repeat Step 3 and 4 with the next fake website.
 
