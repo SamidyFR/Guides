@@ -1,6 +1,6 @@
 # *WinRAR Full Version Guide*
 
-!!! info **This guide is only meant to be followed by** ***Windows*** **users.**
+> Note: **This guide is only meant to be followed by** ***Windows*** **users.**
 
 1. Go to your desktop.
 
