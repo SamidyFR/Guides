@@ -17,7 +17,7 @@ Zlib reduces subtitle file size but uses more resources and can cause issues on 
 3.  Restart MKVToolNix. Verify the setting is active by checking the compression option for a new subtitle track; it should be set to "None" automatically.
 
 ### *Credits*
-**Old owners** - Simulping and an unknown person
+**Old owners** - Simulping and an unknown person    
 **New / Current owner** - [Clara](/claraiscute)
 
 [![Fuck AI](https://files.catbox.moe/os5g6k.png)](https://notbyai.fyi)
@@ -29,3 +29,4 @@ Zlib reduces subtitle file size but uses more resources and can cause issues on 
 *************
 
 [Go back to the top](#how-to-disable-zlib-compression-on-a-pgs-subtitles)
+
