@@ -45,6 +45,8 @@ A simple way to get character information by speaking directly to it would be to
 
 ### *Extracting Character Definitions and Jailbreaking*
 
+> **Warning:** c.ai has updated their API endpoints, which means this section is completely useless. Don't bother following.
+
 You can also extract the character definitions and jailbreak them to create your own versions of them.
 
 #### *The Direct Approach: Using Browser DevTools*
@@ -109,8 +111,6 @@ If you're doing this extensively, it's wise to be cautious.
 *   Using a **burner account** is a good idea to avoid any potential fuss.
 *   **Manual extraction** is slower but much less likely to raise flags than using automated bots to scrape data.
 
-> **Warning:** c.ai has updated their API endpoints, which means this section is completely useless. Don't bother following.
-
 ### *OOC (Out Of Character) Commands*
 
 You can ask OOC-Chan for information about the scenario and the character by using the standard (OOC:) format, which is based of the format used in RP chats to chat on a meta-level about the scenario - and the rest of the discussion is assumed to be IC (In Character). This usually provides control of what happens in the scenario, and allows you to gain access to information that is normally hidden IC.
@@ -164,7 +164,7 @@ Two final points to keep in mind are:
 **The third previous owner (creator of the original Rentry)** - [desuAnon](https://rentry.org/desuAnon) / [Archive](https://web.archive.org/web/20250219222853/https://rentry.org/desuAnon)  
 **The second previous owner** is the dipshit who completely wiped this Rentry, so they can peacefully fuck off.  
 **The previous owner** decided to remain anonymous, so they'll remain unnamed.  
-**New / Current owner** - [Clara](https://rentry.org/claraiscute)  
+**New / Current owner** - [Clara](index.md/#some-stuff-about-me)  
 
 [![Fuck AI](https://files.catbox.moe/os5g6k.png)](https://notbyai.fyi)
 
