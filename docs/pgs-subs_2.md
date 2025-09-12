@@ -48,7 +48,7 @@ Standard Blu-ray PGS subtitles are very bright on HDR content (HDR10, HDR10+, HL
 The difference is more significant on an HDR monitor or TV.
 
 ### *Credits*
-**Old owners** - Unknown (not a username)
+**Old owners** - Unknown (not a username)    
 **New / Current owner** - [Clara](https://rentry.co/claraiscute)
 
 [![Fuck AI](https://files.catbox.moe/os5g6k.png)](https://notbyai.fyi)
@@ -60,3 +60,4 @@ The difference is more significant on an HDR monitor or TV.
 *************
 
 [Go back to the top](#how-to-tonemap-pgs-subtitles-for-hdr-contents-4k-blu-ray)
+
