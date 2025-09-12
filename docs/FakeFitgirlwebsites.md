@@ -172,26 +172,26 @@ If everything was done correctly, this is how it should look:
 ##### *Method 2*
 If you don't feel comfortable editing text files, you can use [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/install) for the [Hosts File Editor](https://learn.microsoft.com/en-us/windows/powertoys/hosts-file-editor) to edit the hosts file using a program. Here's how:
 
-1. Go to the [GitHub](https://github.com/microsoft/PowerToys/releases/latest) or to the [Microsoft Store](ms-windows-store://pdp/?productid=XP89DCGQ3K6VLD) and install PowerToys from there.
+ 1. Go to the [GitHub](https://github.com/microsoft/PowerToys/releases/latest) or to the [Microsoft Store](ms-windows-store://pdp/?productid=XP89DCGQ3K6VLD) and install PowerToys from there.
 
 > **Info: You can also use winget (if installed) to install PowerToys with the following command in Powershell.**
 > `winget install Microsoft.PowerToys --source winget`
 
-2. After installing & launching PowerToys, you will be greeted with a screen like this:
+ 2. After installing & launching PowerToys, you will be greeted with a screen like this:
 
-![one](https://files.catbox.moe/0044q5.png)
+    ![one](https://files.catbox.moe/0044q5.png)
 
-3. Click the Hosts File Editor and press "Launch Hosts File Editor", you will then be greeted with a warning. Press "Accept".
+ 3. Click the Hosts File Editor and press "Launch Hosts File Editor", you will then be greeted with a warning. Press "Accept".
 
-![two](https://files.catbox.moe/6armfm.png)
+    ![two](https://files.catbox.moe/6armfm.png)
 
-4. Press on "New Entry"
+ 4. Press on "New Entry"
 
-![three](https://files.catbox.moe/k9qvpn.png)
+    ![three](https://files.catbox.moe/k9qvpn.png)
 
-5. Follow the instructions as seen on the image
+ 5. Follow the instructions as seen on the image
 
-![four](https://files.catbox.moe/7iz4r6.png)
+    ![four](https://files.catbox.moe/7iz4r6.png)
 
 6. Repeat Step 3 and 4 with the next fake website.
 
