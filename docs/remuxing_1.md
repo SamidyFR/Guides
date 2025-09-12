@@ -75,15 +75,16 @@ Automatically names files with correct extension. Can specify manually (e.g., `e
 Output path for demuxed files. Defaults to eac3to folder if no path is set.
 
 ### *Credits*
-**Old owners** - Parnex and an unknown person
-**New / Current owner** - [Clara](/claraiscute)
+**Old owners** - Parnex and an unknown person    
+**New / Current owner** - [Clara](https://rentry.co/claraiscute)
 
 [![Fuck AI](https://files.catbox.moe/os5g6k.png)](https://notbyai.fyi)
 
-*(With %deeppink% <3 %%)*
+*(With <3)*
 
 **If you have any feedback you want to give me, please fill in a form [here](https://formulaer.com/f/aa502b70-f46d-4e81-98a2-bd6b2de24540).**
 
 *************
 
 [Go back to the top](#guide-on-how-to-make-a-blu-ray-remux-from-a-blu-ray-disc-eac3to)
+
