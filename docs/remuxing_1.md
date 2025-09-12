@@ -1,7 +1,5 @@
 # *Guide on How to Make a Blu-ray REMUX from a Blu-ray Disc (eac3to)*
 
-[TOC3]
-
 ### *Programs needed*
 *   **[BDINFO](https://www.videohelp.com/software/BDInfo)** (Optional)
 *   **[eac3to (CLI)](https://www.videohelp.com/software/eac3to)**
@@ -87,4 +85,5 @@ Output path for demuxed files. Defaults to eac3to folder if no path is set.
 **If you have any feedback you want to give me, please fill in a form [here](https://formulaer.com/f/aa502b70-f46d-4e81-98a2-bd6b2de24540).**
 
 *************
+
 [Go back to the top](#guide-on-how-to-make-a-blu-ray-remux-from-a-blu-ray-disc-eac3to)
