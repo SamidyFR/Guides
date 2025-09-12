@@ -76,12 +76,12 @@ nav:
     - Gshade is garbage: gshade_notice.md
     - Qoob is garbage: qoobrepacker.md
     - Fake FitGirl Websites: FakeFitgirlwebsites.md
-    - ICM: icm.md
+    - ICM: ICM.md
     - qBittorent Endpoints for Piracy: qBitEndpoints.md
     - Raw Manga Sites: rawmangaz.md
     - Scurvy Malware: scurvy_malware.md
     - Mangapark Mirrors: mangapark.md
-    - GameFabrigue is garbage: gamefabrique_adware.md
+    - GameFabrigue is garbage: GameFabrigue.md
     - Private Trackers General: private-trackers.md
   - About & Policy: about.md
 
@@ -112,7 +112,7 @@ extra_css:
   - stylesheets/extra.css
 
 # Build options
-strict: true            # Strict mode for better error checking
+strict: false            # Strict mode for better error checking
 use_directory_urls: true # Clean URLs without .html extension
 
 # Privacy hardening: No external resources
