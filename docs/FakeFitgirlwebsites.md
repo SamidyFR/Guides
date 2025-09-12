@@ -190,6 +190,3 @@ Most of FitGirl's installers come with the "Redirect fake FitGirl sites to the r
 
 **************
 [Go back to the top](#list-of-fake-fitgirl-websites-and-how-to-avoid-them)
-- Used consistent section breaks with `---`
-- Kept all content and images intact
-- Simplified credits section
