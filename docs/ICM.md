@@ -48,7 +48,7 @@ Just Google `[Monitor Brand] [Monitor Serial Number] ICC/ICM Profile` and pray.
 ---
 
 ### *Credits*
-**Old owner** - Overimagine
+**Old owner** - Overimagine  
 **New / Current owner** - [Clara](index.md/#some-stuff-about-me)
 
 [![Fuck AI](https://files.catbox.moe/os5g6k.png)](https://notbyai.fyi)
@@ -59,3 +59,4 @@ Just Google `[Monitor Brand] [Monitor Serial Number] ICC/ICM Profile` and pray.
 
 **************
 [Go back to the top](#find-and-apply-icmicc-profiles-easily)
+
