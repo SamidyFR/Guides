@@ -143,7 +143,7 @@
 ---
 
 ### *Credits*
-**Old owner** - Unknown (Not a username)
+**Old owner** - [ilike2burn](https://www.reddit.com/user/ilike2burn)
 **New / Current owner** - [Clara](https://rentry.org/claraiscute)
 
 [![Fuck AI](https://files.catbox.moe/os5g6k.png)](https://notbyai.fyi)
