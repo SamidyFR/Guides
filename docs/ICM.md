@@ -9,16 +9,16 @@
 #### *RTINGS*
 Go to the [RTINGS website](https://www.rtings.com) and search for your monitor in the search box at the top.
 
-![1](https://files.catbox.moe/wg1two.png)
+![1](https://files.catbox.moe/wg1two.png)  
 
 Once you find the correct page for your monitor, press `Ctrl F` on your keyboard and type "ICC". You should find a profile for said monitor.
 
-![2](https://files.catbox.moe/eq11cm.png)
+![2](https://files.catbox.moe/eq11cm.png)  
 
 #### *TFT Central*
 Go to the [TFT Central website](https://tftcentral.co.uk/articles/icc_profiles) and scroll down to "Database Index". From there, select the letter that corresponds to the first letter of your monitor brand.
 
-![3](https://files.catbox.moe/ttea5x.png)
+![3](https://files.catbox.moe/ttea5x.png)  
 
 Then use `Ctrl F` to find your monitor's ICC profile. Click on the name to download it.
 
@@ -34,33 +34,33 @@ Just Google `[Monitor Brand] [Monitor Serial Number] ICC/ICM Profile` and pray.
 
 1. Press `Win R` on your keyboard and paste `C:\Windows\system32\spool\drivers\color`. Make sure your profile is saved there.
 
-![4](https://files.catbox.moe/p2d1xy.png)
+![4](https://files.catbox.moe/p2d1xy.png)   
 
 2. Press `Win R` on your keyboard and paste `colorcpl`. This menu should show up.
 
-![5](https://files.catbox.moe/kami6c.png)
+![5](https://files.catbox.moe/kami6c.png)  
 
 > **Note: Choose the right monitor before continuing!**
 
-![6](https://files.catbox.moe/pc6lv6.png)
+![6](https://files.catbox.moe/pc6lv6.png)  
 
 3. Select `Use my settings for this device`.
 
-![6](https://files.catbox.moe/sd1d09.png)
+![6](https://files.catbox.moe/sd1d09.png)  
 
 4. Select the color profile you downloaded and click `OK`.
 
-![7](https://files.catbox.moe/93umvn.png)
+![7](https://files.catbox.moe/93umvn.png)  
 
 5. Select your color profile from there and set it as your default profile, and select `Done`.
 
-![8](https://files.catbox.moe/mi1gj2.png)
+![8](https://files.catbox.moe/mi1gj2.png)  
 
 ---
 
 ### *Credits*
 **Old owner** - Overimagine
-**New / Current owner** - Clara
+**New / Current owner** - [Clara](index.md/#some-stuff-about-me)
 
 [![Fuck AI](https://files.catbox.moe/os5g6k.png)](https://notbyai.fyi)
 
@@ -70,3 +70,4 @@ Just Google `[Monitor Brand] [Monitor Serial Number] ICC/ICM Profile` and pray.
 
 **************
 [Go back to the top](#find-and-apply-icmicc-profiles-easily)
+
