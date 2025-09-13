@@ -8,20 +8,15 @@
 
 #### *RTINGS*
 1. Go to the [RTINGS website](https://www.rtings.com) and search for your monitor in the search box at the top.
-
 ![1](https://files.catbox.moe/wg1two.png)  
-
 2. Once you find the correct page for your monitor, press `Ctrl F` on your keyboard and type "ICC". You should find a profile for said monitor.
-
 ![2](https://files.catbox.moe/eq11cm.png)  
 
 #### *TFT Central*
 1. Go to the [TFT Central website](https://tftcentral.co.uk/articles/icc_profiles) and scroll down to "Database Index". From there, select the letter that corresponds to the first letter of your monitor brand.
-
 ![3](https://files.catbox.moe/ttea5x.png)  
 
 2. Then use `Ctrl F` to find your monitor's ICC profile. Click on the name to download it.
-
 #### *Manufacturer*
 Sometimes your monitor comes with a disc that has the ICC profile file in it. If it doesn't, then you can also look on your monitors webpage for it. Just Google `[Monitor Brand] [Monitor Serial Number] Downloads`.
 
@@ -59,4 +54,5 @@ Just Google `[Monitor Brand] [Monitor Serial Number] ICC/ICM Profile` and pray.
 
 **************
 [Go back to the top](#find-and-apply-icmicc-profiles-easily)
+
 
